@@ -5,4 +5,9 @@ Collection of related or structured information that can be stored in different 
 * User's base
 * Shopping list
 * Phone contacts
+## C.R.U.D.
+* Create
+* Read
+* Update
+* Delete
 
