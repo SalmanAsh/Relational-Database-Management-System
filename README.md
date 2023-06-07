@@ -9,5 +9,8 @@ Collection of related or structured information that can be stored in different 
 * Create
 * Read
 * Update
-* Delete
+* Delete 
+# Structured Query Language (SQL)
+Language used to interract with Relational Database Management Systems.
+
 
