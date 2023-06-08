@@ -12,5 +12,6 @@ Collection of related or structured information that can be stored in different 
 * Delete 
 # Structured Query Language (SQL)
 Language used to interract with Relational Database Management Systems.
-
+## Queries
+A set of instructions given to the Relational Database Management Systems to retrieve information for the users.
 
